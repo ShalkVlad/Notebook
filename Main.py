@@ -36,3 +36,4 @@ json_url = "https://ai-process-sandy.s3.eu-west-1.amazonaws.com/purge/deviation.
 save_path = "deviation.json"
 
 download_json(json_url, save_path)
+
