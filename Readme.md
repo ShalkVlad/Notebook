@@ -7,7 +7,7 @@ Room Plotting Project представляет собой программу, к
 1. Скачайте репозиторий с помощью команды:
 
     ```
-    git clone https://github.com/your_username/your_project.git
+git clone https://github.com/ShalkVlad/Notebook.git
     ```
 
 2. Перейдите в каталог проекта:
